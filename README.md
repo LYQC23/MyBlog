@@ -1,2 +1,2 @@
-# MyBolg
-My Bolg
+# MyBlog
+My Blog
